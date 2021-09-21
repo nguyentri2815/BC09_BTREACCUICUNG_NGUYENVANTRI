@@ -1,0 +1,5 @@
+export const actionType = {
+  SET_COURSES: "SET_COURSES",
+  SET_COURSEDETAIL: "SET_COURSEDETAIL",
+  SET_ME: "SET_ME",
+};
